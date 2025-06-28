@@ -18,7 +18,7 @@
 
 ### Clone the Repository  
 ```bash
-git clone https://github.com/your-username/SwitchGain.git  
+git clone https://github.com/albinjm/SwitchGain.git  
 cd SwitchGain  
 ```
 
